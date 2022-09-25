@@ -7,8 +7,6 @@
  *
  */
 
-// TOP
-
 #include "4coder_base_types.h"
 #include "4coder_token.h"
 #include "generated/lexer_cpp.h"
